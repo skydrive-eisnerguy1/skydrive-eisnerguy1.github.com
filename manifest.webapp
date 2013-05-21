@@ -1,7 +1,7 @@
     {  
       "version": "1.0",  
-      "name": "Skydrive",  
-      "description": "Skydrive", 
+      "name": "SkyDrive",  
+      "description": "SkyDrive is the place to store your files so you can access them from virtually any device.", 
       "icons": {  
         "16": "/icon-16.png",
         "32": "/icon-32.png",  
